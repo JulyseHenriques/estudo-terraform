@@ -15,8 +15,8 @@ The resources below must be installed according to the computer's Operating Syst
 ## Development Environment Setup
 
 1. [Create an IAM user in the AWS Account](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users_create.html);
-2. [Configure the IAM user credentials in the AWS CLI](https://docs.aws.amazon.com/cli/latest/reference/configure/);
-3. [Add the Terraform Path to the environment variables](https://phoenixnap.com/kb/how-to-install-terraform); 
+2. [Configure the IAM user credentials in the AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-quickstart.html);
+3. [Add the Terraform Path to the environment variables](https://phoenixnap.com/kb/how-to-install-terraform);
 4. [Install the HashiCorp Terraform extension in VS Code](https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform).
 
 ## Important Documentation

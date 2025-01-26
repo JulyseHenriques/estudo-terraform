@@ -15,8 +15,8 @@ Os recursos abaixo deve ser instalados de acordo com o Sistema Operacional do co
 ## Configuração do ambiente de desenvolvimento
 
 1. [Crie um usuário do IAM na Conta da AWS](https://docs.aws.amazon.com/pt_br/IAM/latest/UserGuide/id_users_create.html);
-2. [Configure as credenciais do usuário do IAM na AWS CLI](https://docs.aws.amazon.com/cli/latest/reference/configure/);
-3. [Adicione o Path do Terraform nas variáveis de ambiente](https://phoenixnap.com/kb/how-to-install-terraform); 
+2. [Configure as credenciais do usuário do IAM na AWS CLI](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/getting-started-quickstart.html);
+3. [Adicione o Path do Terraform nas variáveis de ambiente](https://phoenixnap.com/kb/how-to-install-terraform);
 4. [Instale no VS Code a extensão HashiCorp Terraform](https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform).
 
 ## Documentações Importantes
@@ -24,4 +24,4 @@ Os recursos abaixo deve ser instalados de acordo com o Sistema Operacional do co
 - [Comandos Terraform](https://developer.hashicorp.com/terraform/cli/commands);
 - [Providers Terraform](https://registry.terraform.io/browse/providers);
 - [Serviços da Cloud AWS](https://aws.amazon.com/pt/what-is-aws/);
-- [Comandos da AWS CLI](https://docs.aws.amazon.com/cli/latest/#aws-cli-command-reference).
+- [Comandos da AWS CLI](https://docs.aws.amazon.com/pt_br/cli/latest/#aws-cli-command-reference).
